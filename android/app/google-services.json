@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054868345099",
+    "project_id": "shopshoes-72274",
+    "storage_bucket": "shopshoes-72274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054868345099:android:59a583ec108e849ea3d20e",
+        "android_client_info": {
+          "package_name": "com.shop.shopshoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLuFt4ffzlgjv5vpylXZeFEQ4Wvw9Ph08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
